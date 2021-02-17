@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CodiGo-Front-Semana09%E2%80%8B/static/css/main.943d03d1.chunk.css",
+    "main.js": "/CodiGo-Front-Semana09%E2%80%8B/static/js/main.754aed54.chunk.js",
+    "main.js.map": "/CodiGo-Front-Semana09%E2%80%8B/static/js/main.754aed54.chunk.js.map",
+    "runtime-main.js": "/CodiGo-Front-Semana09%E2%80%8B/static/js/runtime-main.042c9c69.js",
+    "runtime-main.js.map": "/CodiGo-Front-Semana09%E2%80%8B/static/js/runtime-main.042c9c69.js.map",
+    "static/js/2.1d82d1d8.chunk.js": "/CodiGo-Front-Semana09%E2%80%8B/static/js/2.1d82d1d8.chunk.js",
+    "static/js/2.1d82d1d8.chunk.js.map": "/CodiGo-Front-Semana09%E2%80%8B/static/js/2.1d82d1d8.chunk.js.map",
+    "static/js/3.eab29a3b.chunk.js": "/CodiGo-Front-Semana09%E2%80%8B/static/js/3.eab29a3b.chunk.js",
+    "static/js/3.eab29a3b.chunk.js.map": "/CodiGo-Front-Semana09%E2%80%8B/static/js/3.eab29a3b.chunk.js.map",
+    "index.html": "/CodiGo-Front-Semana09%E2%80%8B/index.html",
+    "static/css/main.943d03d1.chunk.css.map": "/CodiGo-Front-Semana09%E2%80%8B/static/css/main.943d03d1.chunk.css.map",
+    "static/js/2.1d82d1d8.chunk.js.LICENSE.txt": "/CodiGo-Front-Semana09%E2%80%8B/static/js/2.1d82d1d8.chunk.js.LICENSE.txt",
+    "static/media/phone.7df015ac.svg": "/CodiGo-Front-Semana09%E2%80%8B/static/media/phone.7df015ac.svg",
+    "static/media/search.cc51b702.svg": "/CodiGo-Front-Semana09%E2%80%8B/static/media/search.cc51b702.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.042c9c69.js",
+    "static/js/2.1d82d1d8.chunk.js",
+    "static/css/main.943d03d1.chunk.css",
+    "static/js/main.754aed54.chunk.js"
+  ]
+}
